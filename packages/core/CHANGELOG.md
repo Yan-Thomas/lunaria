@@ -1,5 +1,12 @@
 # @lunariajs/core
 
+## 0.0.26
+
+### Patch Changes
+
+- 8c09b43: Change `cloneDir` default
+- ff3be57: Simplify component system and dashboard generation
+
 ## 0.0.25
 
 ### Patch Changes
